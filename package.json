@@ -1,0 +1,28 @@
+{
+  "name": "webpack-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suruga20191005/webpack-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suruga20191005/webpack-crash-course/issues"
+  },
+  "homepage": "https://github.com/suruga20191005/webpack-crash-course#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
