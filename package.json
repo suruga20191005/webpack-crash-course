@@ -18,12 +18,14 @@
   },
   "homepage": "https://github.com/suruga20191005/webpack-crash-course#readme",
   "devDependencies": {
+    "css-loader": "^6.7.1",
     "live-server": "^1.2.2",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "style-loader": "^3.3.1"
   }
 }
