@@ -28,6 +28,8 @@
   "dependencies": {
     "file-loader": "^6.2.0",
     "lodash": "^4.17.21",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^13.0.0",
     "style-loader": "^3.3.1"
   }
 }
